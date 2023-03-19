@@ -1,5 +1,5 @@
 # InTheLoop
-Software Engineering Class Project
+
 
 Name: Campus Wallet 
 
